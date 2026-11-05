@@ -1,0 +1,139 @@
+"check","max_abs_error","tolerance"
+"mean",1.77635683940025e-15,1e-12
+"variance",7.105427357601e-15,1e-12
+"sd",8.88178419700125e-16,1e-12
+"median",0,1e-12
+"IQR",0,1e-12
+"range",0,1e-12
+"quantile (type 7)",1.77635683940025e-15,1e-12
+"std error",1.11022302462516e-16,1e-12
+"mean na.rm",1.77635683940025e-15,1e-12
+"var na.rm",7.105427357601e-15,1e-12
+"describe | n",0,1e-12
+"describe | mean",1.77635683940025e-15,1e-12
+"describe | q1",0,1e-12
+"skewness vs e1071",8.88178419700125e-16,1e-10
+"kurtosis vs e1071",1.77635683940025e-15,1e-10
+"dnorm",5.55111512312578e-17,1e-14
+"pnorm",5.66093929748441e-16,1e-12
+"pnorm(mean=5, sd=2)",3.33066907387547e-16,1e-12
+"qnorm",2.37019293081175e-11,1e-08
+"pnorm(qnorm(p)) round-trip",1.1340928196546e-13,1e-12
+"dbinom",2.22044604925031e-16,1e-13
+"pbinom",9.99200722162641e-16,1e-12
+"dpois",1.66533453693773e-16,1e-13
+"ppois",2.22044604925031e-16,1e-12
+"dexp",0,1e-14
+"pexp",1.11022302462516e-16,1e-14
+"ecdf",0,1e-14
+"ecdf with ties",0,1e-14
+"pt df=1",4.44089209850063e-16,1e-10
+"pt df=2",1.11022302462516e-16,1e-10
+"pt df=5",3.33066907387547e-16,1e-10
+"pt df=10",3.60822483003176e-16,1e-10
+"pt df=30",1.49880108324396e-15,1e-10
+"pt df=100",1.22124532708767e-15,1e-10
+"pchisq df=1",1.11022302462516e-16,1e-10
+"pchisq df=2",2.22044604925031e-16,1e-10
+"pchisq df=5",2.22044604925031e-16,1e-10
+"pchisq df=10",2.22044604925031e-16,1e-10
+"pchisq df=50",2.22044604925031e-15,1e-10
+"pf df=(1,1)",7.7715611723761e-16,1e-10
+"pf df=(3,10)",2.22044604925031e-16,1e-10
+"pf df=(5,20)",8.88178419700125e-16,1e-10
+"pf df=(10,50)",2.22044604925031e-15,1e-10
+"pf df=(2,100)",4.66293670342566e-15,1e-10
+"qt df=2",1.49302650243044e-08,1e-06
+"qt df=5",2.11002770811319e-08,1e-06
+"qt df=30",4.21714503318071e-08,1e-06
+"qchisq df=1",1.69424474449897e-10,1e-06
+"qchisq df=5",4.43272085703939e-10,1e-06
+"qchisq df=20",1.30103217088617e-09,1e-06
+"qf (4, 25)",2.33875141475437e-11,1e-06
+"pt(qt(p)) round-trip",1.07326068587987e-08,1e-09
+"one-sample | statistic",0,1e-09
+"one-sample | df",0,1e-09
+"one-sample | p-value",2.94902990916057e-17,1e-09
+"one-sample | CI",1.49569245877501e-11,1e-07
+"one-sample | estimate",0,1e-09
+"one-sample less | statistic",0,1e-09
+"one-sample less | df",0,1e-09
+"one-sample less | p-value",0,1e-09
+"one-sample less | CI",9.09849973140808e-12,1e-07
+"one-sample less | estimate",0,1e-09
+"one-sample greater | statistic",0,1e-09
+"one-sample greater | df",0,1e-09
+"one-sample greater | p-value",4.59701721133854e-17,1e-09
+"one-sample greater | CI",9.09849973140808e-12,1e-07
+"one-sample greater | estimate",0,1e-09
+"Welch | statistic",2.60902410786912e-15,1e-09
+"Welch | df",1.4210854715202e-14,1e-09
+"Welch | p-value",3.14193115968919e-14,1e-09
+"Welch | CI",1.60345070554513e-11,1e-07
+"Welch | estimate",1.77635683940025e-15,1e-09
+"pooled | statistic",2.53963516883005e-15,1e-09
+"pooled | df",0,1e-09
+"pooled | p-value",1.43218770176645e-14,1e-09
+"pooled | CI",4.63920013515917e-11,1e-07
+"pooled | estimate",1.77635683940025e-15,1e-09
+"paired | statistic",7.97972798949331e-17,1e-09
+"paired | df",0,1e-09
+"paired | p-value",2.09832151654155e-14,1e-09
+"paired | CI",7.20745685356405e-12,1e-07
+"paired | estimate",1.73472347597681e-17,1e-09
+"paired with NA | statistic",2.4980018054066e-16,1e-09
+"paired with NA | df",0,1e-09
+"paired with NA | p-value",8.99280649946377e-15,1e-09
+"paired with NA | CI",1.64085967035987e-11,1e-07
+"paired with NA | estimate",5.55111512312578e-17,1e-09
+"Welch 99% CI",1.01290087428652e-11,1e-07
+"CI mean",1.49569245877501e-11,1e-07
+"CI mean 90%",9.09849973140808e-12,1e-07
+"Wilson CI (k=17, n=40)",6.32827124036339e-15,1e-07
+"Wilson CI (k=0, n=25)",1.0019762797242e-14,1e-07
+"CI variance",2.42696529539899e-10,1e-06
+"bootstrap point estimate",0,1e-12
+"perm observed stat",0,1e-12
+"chisq statistic",0,1e-10
+"chisq df",0,1e-12
+"chisq p-value",0,1e-10
+"chisq expected",0,1e-10
+"ANOVA F",2.66453525910038e-15,1e-09
+"ANOVA df",0,1e-12
+"ANOVA p-value",3.5527136788005e-15,1e-09
+"ANOVA SS",8.5265128291212e-14,1e-08
+"covariance",0,1e-12
+"Pearson",3.33066907387547e-16,1e-12
+"rank (ties averaged)",0,1e-12
+"Spearman (with ties)",0,1e-12
+"cor t-statistic",2.48689957516035e-14,1e-09
+"cor p-value",3.81424406954816e-34,1e-12
+"Pearson with NA",0,1e-12
+"lm coefficients",1.62092561595273e-14,1e-08
+"lm std errors",5.55111512312578e-16,1e-08
+"lm t-values",6.88338275267597e-14,1e-08
+"lm p-values",2.81719092498633e-14,1e-08
+"lm R2",1.11022302462516e-16,1e-10
+"lm adj R2",1.11022302462516e-16,1e-10
+"lm sigma",1.11022302462516e-16,1e-10
+"lm F-statistic",7.105427357601e-14,1e-08
+"lm fitted",1.77635683940025e-14,1e-08
+"lm residuals",1.84297022087776e-14,1e-08
+"lm factor coefficients",1.00475183728577e-14,1e-08
+"lm factor p-values",1.79856129989275e-14,1e-08
+"lm with NA coefficients",2.42028619368284e-14,1e-08
+"predict point",1.33226762955019e-14,1e-08
+"predict CI fit",1.33226762955019e-14,1e-08
+"predict CI lwr",1.57278634560498e-11,1e-06
+"predict CI upr",1.5742074310765e-11,1e-06
+"standardized residuals",2.22044604925031e-14,1e-08
+"leverage",4.16333634234434e-16,1e-10
+"DartPoints Welch | statistic",3.5527136788005e-15,1e-09
+"DartPoints Welch | df",7.105427357601e-15,1e-09
+"DartPoints Welch | p-value",8.9335506155727e-22,1e-09
+"DartPoints Welch | CI",1.33386635070565e-10,1e-07
+"DartPoints Welch | estimate",7.105427357601e-15,1e-09
+"DartPoints Length describe mean",2.1316282072803e-14,1e-12
+"DartPoints ANOVA F",7.105427357601e-15,1e-08
+"DartPoints lm coefficients",6.03961325396085e-14,1e-07
+"DartPoints lm p-values",1.10137873315451e-16,1e-07

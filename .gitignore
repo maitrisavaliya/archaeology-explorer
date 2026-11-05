@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+_site/
+*_files/
+.DS_Store
